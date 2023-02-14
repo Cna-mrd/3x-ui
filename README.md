@@ -6,7 +6,7 @@ xray panel supporting multi-protocol, **Multi-lang (English,Farsi,Chinese)**
 # Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/cna-mrd/3x-ui/master/install.sh)
 ```
 
 # SSL
